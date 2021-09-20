@@ -10,7 +10,7 @@
         android:layout_width="97dp"
         android:layout_height="31dp"
         android:autoText="false"
-        android:text="Hola Mundo!!"
+        android:text="Adios Mundo!!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
